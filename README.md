@@ -1,4 +1,4 @@
-# webDev-Projects
+# Web Development - Projects
 
 This repository was made for a web development project, a website mockup for a bakery store called Baked Donuts.
 The name Baked Donuts came from when I first started learning web dev at freecodecamp.org, as of today, it still is my username there.
